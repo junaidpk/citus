@@ -141,6 +141,12 @@ Study](https://www.citusdata.com/solutions/case-studies/agari-case-study)
 funnel, segmentation, and cohort queries across billions of users
 and tens of billions of events. [Watch
 Video](https://www.youtube.com/watch?v=NVl9_6J1G60&list=PLixnExCn6lRpP10ZlpJwx6AuU3XIgNWpL)
+* [Pex](https://pex.com/) uses Citus to implement very high volume data creation and search database for audio/video data on a 20+ node cluster on Google Cloud [Case Study](https://www.citusdata.com/customers/pex)
+* [Algolia](https://www.algolia.com/) uses Citus to power a hosted search engine. TopN and HLL extensions are also utilized on top of Citus. [Case Study](https://www.citusdata.com/customers/algolia)
+* [Copper (formerly ProsperWorks)](https://copper.com/) powers a cloud CRM service with Citus. [Case Study](https://www.citusdata.com/customers/copper)
+
+
+You can read about more uses of Citus [here](https://www.citusdata.com/customers/).
 
 ___
 
