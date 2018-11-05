@@ -16,6 +16,7 @@ OBJS = src/backend/distributed/shared_library_init.o \
      src/backend/distributed/commands/sequence.o \
      src/backend/distributed/commands/tablecmds.o \
      src/backend/distributed/commands/transmit.o \
+     src/backend/distributed/commands/vacuum.o \
      src/backend/distributed/connection/connection_configuration.o \
      src/backend/distributed/connection/connection_management.o \
      src/backend/distributed/connection/placement_connection.o \
